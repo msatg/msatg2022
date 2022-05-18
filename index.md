@@ -9,16 +9,29 @@ Sun, Hao (South China University of Technology)
 ## Speakers: 
 
 Murfet, Daniel
+
 Gu, Xing
+
 Hu, Xiaowen
+
 Kong, Jia
+
 Li, Chunyi
+
 Li, Wenwei
+
+Nathaniel Stapleton
+
 Shi, Yun
+
 Wang, Guozhen
+
 Yu, Chenglong
+
 Zhang, Ningchuan
+
 Zhao, Lutian
+
 Zhao, Yu
 
 
