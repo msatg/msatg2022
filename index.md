@@ -8,17 +8,17 @@
 
 ## Speakers: 
 
-Gu, Xing (Westlake University)
+[Gu, Xing](https://blogs.unimelb.edu.au/xing-gu/) (Westlake University)
 
 Hu, Xiaowen (Sun Yat-Sen University)
 
-Kong, Jia (Institute for Advanced Study)
+[Kong, Jia](https://hanajiakong.github.io/) (Institute for Advanced Study)
 
 [Li, Chunyi](https://sites.google.com/site/chunyili0401/) (University of Warwick)
 
 [Li, Wen-Wei](https://www.wwli.asia/index.php/en/) (Peking University)
 
-Murfet, Daniel (University of Melbourne)
+[Murfet, Daniel](http://therisingsea.org/) (University of Melbourne)
 
 Shi, Yun (Brandeis University)
 
@@ -28,11 +28,11 @@ Shi, Yun (Brandeis University)
 
 Yu, Chenglong (Tsinghua University)
 
-Zhang, Ningchuan (University of Pennsylvania)
+[Zhang, Ningchuan](https://sites.google.com/view/ningchuan-zhang) (University of Pennsylvania)
 
-Zhao, Lutian (University of Maryland)
+[Zhao, Lutian](https://faculty.math.illinois.edu/~lzhao35/) (University of Maryland)
 
-Zhao, Yu (University of Tokyo)
+[Zhao, Yu](https://zy199402.weebly.com/) (University of Tokyo)
 
 Tecent Meeting: TBA
 
