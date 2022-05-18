@@ -8,8 +8,6 @@ Sun, Hao (South China University of Technology)
 
 ## Speakers: 
 
-Murfet, Daniel
-
 Gu, Xing
 
 Hu, Xiaowen (Sun Yat-Sen University)
@@ -19,6 +17,8 @@ Kong, Jia (IAS)
 Li, Chunyi (Warwick)
 
 Li, Wenwei (Peking University)
+
+Murfet, Daniel (University of Melbourne)
 
 Shi, Yun (Harvard Universit)
 
