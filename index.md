@@ -2,37 +2,37 @@
 
 ## Organizers:
 
-Huan, Zhen (Huazhong University of Science and Technology)
+[Huan, Zhen](https://huanzhen84.github.io/zhenhuan/) (Huazhong University of Science and Technology)
 
 Sun, Hao (South China University of Technology)
 
 ## Speakers: 
 
-Gu, Xing
+Gu, Xing (Westlake University)
 
 Hu, Xiaowen (Sun Yat-Sen University)
 
-Kong, Jia (IAS)
+Kong, Jia (Institute for Advanced Study)
 
-Li, Chunyi (Warwick)
+Li, Chunyi (University of Warwick)
 
 Li, Wenwei (Peking University)
 
 Murfet, Daniel (University of Melbourne)
 
-Shi, Yun (Harvard Universit)
+Shi, Yun (Brandeis University)
 
-Stapleton, Nathaniel ( University of Kentucky)
+Stapleton, Nathaniel (University of Kentucky)
 
 Wang, Guozhen (Shanghai Center for Mathematical Sciences)
 
-Yu, Chenglong
+Yu, Chenglong (Tsinghua University)
 
 Zhang, Ningchuan (University of Pennsylvania)
 
 Zhao, Lutian (University of Maryland)
 
-Zhao, Yu
+Zhao, Yu (University of Tokyo)
 
 Tecent Meeting: TBA
 
