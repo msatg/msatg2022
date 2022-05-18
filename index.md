@@ -1,4 +1,4 @@
-# Mid-South Algebraic Topology and Geometry Workshop
+# Mid-South Algebraic Topology and Geometry Workshop (Online)
 
 ## Organizers:
 
