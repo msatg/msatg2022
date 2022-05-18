@@ -1,5 +1,5 @@
-# 华中南代数拓扑几何研讨会 \\
-Mid-South Algebraic Topology and Geometry Workshop
+# 华中南代数拓扑几何研讨会
+# Mid-South Algebraic Topology and Geometry Workshop
 
 Online  July 18-20th, 2022
 
