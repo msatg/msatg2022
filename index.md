@@ -4,7 +4,7 @@
 
 [Huan, Zhen](https://huanzhen84.github.io/zhenhuan/) (Huazhong University of Science and Technology)
 
-Sun, Hao (South China University of Technology)
+[Sun, Hao](https://haosun71275.github.io/HaoSun/) (South China University of Technology)
 
 ## Speakers: 
 
@@ -14,17 +14,17 @@ Hu, Xiaowen (Sun Yat-Sen University)
 
 Kong, Jia (Institute for Advanced Study)
 
-Li, Chunyi (University of Warwick)
+[Li, Chunyi](https://sites.google.com/site/chunyili0401/) (University of Warwick)
 
-Li, Wenwei (Peking University)
+[Li, Wen-Wei](https://www.wwli.asia/index.php/en/) (Peking University)
 
 Murfet, Daniel (University of Melbourne)
 
 Shi, Yun (Brandeis University)
 
-Stapleton, Nathaniel (University of Kentucky)
+[Stapleton, Nathaniel](http://www.math.uky.edu/~njst237/) (University of Kentucky)
 
-Wang, Guozhen (Shanghai Center for Mathematical Sciences)
+[Wang, Guozhen](https://pouiyter.github.io/) (Fudan University)
 
 Yu, Chenglong (Tsinghua University)
 
