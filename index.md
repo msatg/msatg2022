@@ -7,31 +7,31 @@ Online  July 18-20th, 2022
 
 ## Speakers: 
 
-[Gu, Xing](https://blogs.unimelb.edu.au/xing-gu/) (Westlake University)
+[Xing Gu](https://blogs.unimelb.edu.au/xing-gu/), Westlake University
 
-[Hu, Xiaowen](https://math.sysu.edu.cn/teacher/643) (Sun Yat-Sen University)
+[Xiaowen Hu](https://math.sysu.edu.cn/teacher/643), Sun Yat-Sen University
 
-[Kong, Jia](https://hanajiakong.github.io/) (Institute for Advanced Study)
+[Hana Jia Kong](https://hanajiakong.github.io/), Institute for Advanced Study
 
-[Li, Chunyi](https://sites.google.com/site/chunyili0401/) (University of Warwick)
+[Chunyi Li](https://sites.google.com/site/chunyili0401/), University of Warwick
 
-[Li, Wen-Wei](https://www.wwli.asia/index.php/en/) (Peking University)
+[Wen-Wei Li](https://www.wwli.asia/index.php/en/), Peking University
 
-[Murfet, Daniel](http://therisingsea.org/) (University of Melbourne)
+[Daniel Murfet](http://therisingsea.org/), University of Melbourne
 
-Shi, Yun (Brandeis University)
+Yun Shi, Brandeis University
 
-[Stapleton, Nathaniel](http://www.math.uky.edu/~njst237/) (University of Kentucky)
+[Nathaniel Stapleton](http://www.math.uky.edu/~njst237/), University of Kentucky
 
-[Wang, Guozhen](https://pouiyter.github.io/) (Fudan University)
+[Guozhen Wang](https://pouiyter.github.io/), Fudan University
 
-Yu, Chenglong (Tsinghua University)
+Chenglong Yu, Tsinghua University
 
-[Zhang, Ningchuan](https://sites.google.com/view/ningchuan-zhang) (University of Pennsylvania)
+[Ningchuan Zhang](https://sites.google.com/view/ningchuan-zhang), University of Pennsylvania
 
-[Zhao, Lutian](https://faculty.math.illinois.edu/~lzhao35/) (University of Maryland)
+[Lutian Zhao](https://faculty.math.illinois.edu/~lzhao35/), University of Maryland
 
-[Zhao, Yu](https://zy199402.weebly.com/) (University of Tokyo)
+[Yu Zhao](https://zy199402.weebly.com/), University of Tokyo
 
 
 
