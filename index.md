@@ -1,16 +1,14 @@
-# Mid-South Algebraic Topology and Geometry Workshop (Online)
+# 华中南代数拓扑几何研讨会 Mid-South Algebraic Topology and Geometry Workshop
 
-## Organizers:
+Online  July 18-20th, 2022
 
-[Huan, Zhen](https://huanzhen84.github.io/zhenhuan/) (Huazhong University of Science and Technology)
 
-[Sun, Hao](https://haosun71275.github.io/HaoSun/) (South China University of Technology)
 
 ## Speakers: 
 
 [Gu, Xing](https://blogs.unimelb.edu.au/xing-gu/) (Westlake University)
 
-Hu, Xiaowen (Sun Yat-Sen University)
+[Hu, Xiaowen](https://math.sysu.edu.cn/teacher/643) (Sun Yat-Sen University)
 
 [Kong, Jia](https://hanajiakong.github.io/) (Institute for Advanced Study)
 
@@ -38,7 +36,25 @@ Tecent Meeting: TBA
 
 Zoom Meeting: TBA
 
-## Schedule: TBA (July, 18th to July, 20th)
+## Schedule
+
+## Mon. Jul. 18
+
+8:00-9:00
+
+## Tue. Jul. 19
+
+8:00-9:00
+
+## Wed. Jul. 20
+
+8:00-9:00
+
+## Organizers:
+
+[Huan, Zhen](https://huanzhen84.github.io/zhenhuan/) (Huazhong University of Science and Technology)
+
+[Sun, Hao](https://haosun71275.github.io/HaoSun/) (South China University of Technology)
 
 ## Contact Information:
 Email: hsun71275@scut.edu.cn
