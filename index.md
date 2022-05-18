@@ -12,23 +12,23 @@ Murfet, Daniel
 
 Gu, Xing
 
-Hu, Xiaowen
+Hu, Xiaowen (Sun Yat-Sen University)
 
-Kong, Jia
+Kong, Jia (IAS)
 
-Li, Chunyi
+Li, Chunyi (Warwick)
 
-Li, Wenwei
+Li, Wenwei (Peking University)
 
-Shi, Yun
+Shi, Yun (Harvard Universit)
 
 Stapleton, Nathaniel
 
-Wang, Guozhen
+Wang, Guozhen (Shanghai Center for Mathematical Sciences)
 
 Yu, Chenglong
 
-Zhang, Ningchuan
+Zhang, Ningchuan (University of Pennsylvania)
 
 Zhao, Lutian (University of Maryland)
 
