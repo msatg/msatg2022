@@ -8,6 +8,7 @@ The algebraic topology and algebraic geometry in China are still developing, esp
 If you are interested in giving a talk in one of the MSATG workshops, or you would like to give us some comments, feel free to contact us.
 
 [Huan, Zhen](https://huanzhen84.github.io/zhenhuan/) (Huazhong University of Science and Technology), 2019010151@hust.edu.cn
+
 [Sun, Hao](https://haosun71275.github.io/HaoSun/) (South China University of Technology),  hsun71275@scut.edu.cn
 
 ## Speakers: 
