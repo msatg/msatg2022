@@ -1,9 +1,14 @@
-# 华中南代数拓扑几何研讨会
 # Mid-South Algebraic Topology and Geometry Workshop
 
 Online  July 18-20th, 2022
 
+## Motivation and Introduction
 
+The algebraic topology and algebraic geometry in China are still developing, especially in the mid-south area. We hope we can help developing the math areas as much as we can. This is the first “Mid-South Algebraic Topology and Geometry Workshop”(华中南代数拓扑几何研讨会) that we organize. We plan to organize a 1-2 days workshop every quarter and a 3-5 days worshop every year. HUST and SCUT also have online joint undergraduate seminars in algebraic topology and algebraic geometry.
+If you are interested in giving a talk in one of the MSATG workshops, or you would like to give us some comments, feel free to contact us.
+
+[Huan, Zhen](https://huanzhen84.github.io/zhenhuan/) (Huazhong University of Science and Technology), 2019010151@hust.edu.cn
+[Sun, Hao](https://haosun71275.github.io/HaoSun/) (South China University of Technology),  hsun71275@scut.edu.cn
 
 ## Speakers: 
 
