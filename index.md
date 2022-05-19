@@ -1,8 +1,9 @@
 # Mid-South Algebraic Topology and Geometry Workshop
 
-Online  July 18-20th, 2022
 
-## Motivation and Introduction
+## About
+
+The Mid-South Algebraic Topology and Geometry Workshop is Online from July 18 to July 20th, 2022.
 
 The algebraic topology and algebraic geometry in China are still developing, especially in the mid-south area. We hope we can help developing the math areas as much as we can. 
 
@@ -88,5 +89,8 @@ Chenglong Yu, Tsinghua University
 
 [Sun, Hao](https://haosun71275.github.io/HaoSun/) (South China University of Technology)
 
-## Contact Information:
-Email: hsun71275@scut.edu.cn
+## Regstration
+All are welcome. However, due to space restrictions, we kindly need you to register. Please register by June 10, 2021. If you have any questions, please write to 
+Hao Sun (hsun71275@scut.edu.cn) before July 10th.
+
+The link of the meetings will be sent to the regitered participants one week before the workshop.
