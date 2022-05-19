@@ -3,11 +3,10 @@
 
 ## About
 
-The Mid-South Algebraic Topology and Geometry Workshop is Online from July 18 to July 20th, 2022.
+The first Mid-South Algebraic Topology and Geometry Workshop (华中南代数拓扑几何研讨会) is Online from July 18 to July 20th, 2022.
 
 The algebraic topology and algebraic geometry in China are still developing, especially in the mid-south area. We hope we can help developing the math areas as much as we can. 
-
-This is the first “Mid-South Algebraic Topology and Geometry Workshop”(华中南代数拓扑几何研讨会) that we organize. We plan to organize a 1-2 days workshop every quarter and a 3-5 days worshop every year. HUST and SCUT also have online joint undergraduate seminars in algebraic topology and algebraic geometry.
+We plan to organize a 1-2 days workshop every quarter and a 3-5 days worshop every year. HUST and SCUT also have online joint undergraduate seminars in algebraic topology and algebraic geometry.
 
 If you are interested in giving a talk in one of the MSATG workshops, or you would like to give us some comments, feel free to contact us.
 
@@ -93,4 +92,4 @@ Chenglong Yu, Tsinghua University
 All are welcome. However, due to space restrictions, we kindly need you to register. Please register by June 10, 2021. If you have any questions, please write to 
 Hao Sun (hsun71275@scut.edu.cn) before July 10th.
 
-The link of the meetings will be sent to the regitered participants one week before the workshop.
+The link of the meetings will be sent to the registered participants one week before the workshop.
