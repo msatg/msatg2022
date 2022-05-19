@@ -90,6 +90,6 @@ Chenglong Yu, Tsinghua University
 
 ## Regstration
 All are welcome. However, due to space restrictions, we kindly need you to register. Please register by June 10, 2021. If you have any questions, please write to 
-Hao Sun (hsun71275@scut.edu.cn) before July 10th.
+Zhen Huan (2019010151@hust.edu.cn) before July 10th.
 
 The link of the meetings will be sent to the registered participants one week before the workshop.
