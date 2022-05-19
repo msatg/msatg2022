@@ -28,7 +28,7 @@ If you are interested in giving a talk in one of the MSATG workshops, or you wou
 
 [Daniel Murfet](http://therisingsea.org/), University of Melbourne
 
-Yun Shi, Brandeis University
+[Yun Shi](https://www.brandeis.edu/mathematics/people/index.html), Brandeis University
 
 [Nathaniel Stapleton](http://www.math.uky.edu/~njst237/), University of Kentucky
 
