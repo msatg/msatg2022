@@ -26,6 +26,8 @@ If you are interested in giving a talk in one of the MSATG workshops, or you wou
 
 [Wen-Wei Li](https://www.wwli.asia/index.php/en/), Peking University
 
+Weinan Lin, Peking University
+
 [Daniel Murfet](http://therisingsea.org/), University of Melbourne
 
 [Yun Shi](https://www.brandeis.edu/mathematics/people/index.html), Brandeis University
@@ -54,7 +56,7 @@ Chenglong Yu, Tsinghua University
 
 10:30-11:30 Xing Gu（古星）
 
-14:00-15:00
+14:00-15:00 Weinan Lin (林伟南)
 
 15:30-16:30 
 
