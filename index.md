@@ -72,7 +72,7 @@ Chenglong Yu, Tsinghua University
 
 ## Wed. Jul. 20
 
-8:00-9:00 Yun Shi（石云）
+8:00-9:00 Yun Shi（石芸）
 
 9:10-10:10 Lutian Zhao（赵鹭天）
 
