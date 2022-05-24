@@ -18,6 +18,8 @@ If you are interested in giving a talk in one of the MSATG workshops, or you wou
 
 [Xing Gu](https://blogs.unimelb.edu.au/xing-gu/), Westlake University
 
+[André Henriques](http://andreghenriques.com/), University of Oxford
+
 [Xiaowen Hu](https://math.sysu.edu.cn/teacher/643), Sun Yat-Sen University
 
 [Hana Jia Kong](https://hanajiakong.github.io/), Institute for Advanced Study
@@ -59,6 +61,8 @@ Chenglong Yu, Tsinghua University
 14:00-15:00 Weinan Lin (林伟南)
 
 15:30-16:30 
+
+17:00-18:00 André Henriques
 
 ## Tue. Jul. 19
 
