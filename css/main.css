@@ -1843,9 +1843,6 @@ input::-moz-focus-inner {
 
 .s-pageheader {
     min-height: 174px;
-    background-image: url(../images/hero-bg.jpg);
-    background-repeat: no-repeat;
-    background-position: center center;
     position: relative;
 }
 
@@ -1897,8 +1894,8 @@ input::-moz-focus-inner {
 }
 
 #pics_wrap {
-    width: 1050px;
-    height: 660px;
+    width: 1080px;
+    height: 720px;
     margin: auto auto;
     /*atuo会使其居中*/
     position: relative;
@@ -1916,7 +1913,7 @@ input::-moz-focus-inner {
 }
 
 #pics_container img {
-    max-width: 100%;
+    width: 100%;
     height: auto;
 }
 
@@ -1983,6 +1980,35 @@ input::-moz-focus-inner {
 #pics_right {
     position: absolute;
     right: 0;
+}
+
+#pics_wrap .entry {
+    position: absolute;
+    /*绝对定位，相对于上面用相对定位的父元素#wrap*/
+    z-index: 2;
+    /*比上面#pic li的对应属性的值大，因此这个元素会显示在更上层，覆盖在上一个元素上面*/
+    top: 70%;
+    left: 50%;
+    margin-left: -460px;
+}
+
+#pics_wrap .entry h1 {
+    font-size: 3.5rem;
+    line-height: 1.333;
+    margin-top: 0;
+    margin-bottom: 3rem;
+    color: #FFFFFF;
+    border-bottom: 1px solid transparent;
+    -webkit-transition: all 0.5s ease-in-out;
+    transition: all 0.5s ease-in-out;
+}
+
+#pics_wrap .entry li {
+    font-size: 1.2 rem;
+    line-height: 1;
+    margin-top: 0;
+    margin-bottom: 3rem;
+    color: #FFFFFF;
 }
 
 
