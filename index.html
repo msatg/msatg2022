@@ -41,7 +41,6 @@
                             <li><a href="#A" title="">About</a></li>
                             <li><a href="#Sp" title="">Speakers</a></li>
                             <li><a href="#Sc" title="">Schedule</a></li>
-
                             <li><a href="#O" title="">Organizers</a></li>
                             <li><a href="#R" title="">Regstration</a></li>
                         </ul>
@@ -49,25 +48,35 @@
                 </div>
             </header>
 
-            <div class="pageheader-content row">
-                <div class="col-full">
-                    <div class="featured">
-                        <div class="featured__column featured__column--big">
-                            <div class="entry" style="background-image:url('images/donghu0.jpg');">
-                                <div class="entry__content">
-                                    <h1><a>Mid-South Algebraic Topology and Geometry Workshop</a></h1>
-                                    <ul class="entry__meta">
-                                        <li>Huazhong University of Science and Technology & South China University of Technology</li>
-                                        <li>Wuhan, China</li>
-                                        <li>July 19-30, 2022</li>
-                                    </ul>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
+            <!--id=wrap的div为整个轮播图的容器。
+                里面嵌套的id=pic的ul列表为图片的列表，初始时都将display属性设置为none,不显示出来。
+                第二个id=num的ul列表是轮播图下方的代表当前是第几张图的焦点.
+                第三部分的两个a标签，为轮播图的左右箭头。-->
+            <div id="pics_wrap">
+                <ul id="pics_container">
+                    <li style="display:block;">
+                        <img src="images/hust0.jpg" alt="" />
+                    </li>
+                    <li style="display:none;">
+                        <img src="images/hust1.jpg" alt="" />
+                    </li>
+                    <li style="display:none;">
+                        <img src="images/huagong0.png" alt="" />
+                    </li>
+                    <li style="display:none;">
+                        <img src="images/huagong1.png" alt="" />
+                    </li>
 
-            </div>
+                </ul>
+                <ul id="pics_num">
+                    <li class="active"></li>
+                    <li class=""></li>
+                    <li class=""></li>
+                    <li class=""></li>
+
+                </ul>
+                <a href="javascript:;" class="arrow" id="pics_left">&lt;</a>
+                <a href="javascript:;" class="arrow" id="pics_right">&gt;</a>
             </div>
 
         </section>
@@ -169,50 +178,10 @@
             </article>
 
         </section>
-        <!-- s-content -->
-
-        <div class="s-footer__bottom">
-            <div class="row">
-                <div class="col-full">
-                    <div class="s-footer__copyright">
-                        <span>© Copyright Philosophy 2021</span>
-                        <span>Site Template by <a href="https://colorlib.com/">Colorlib</a></span>
-                        <span>Photo of Lujiazui adapted from bbs.dili360.com</span>
-                    </div>
-
-                    <div class="go-top">
-                        <a class="smoothscroll" title="Back to Top" href="#top"></a>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!-- end s-footer__bottom -->
-
-        </footer>
-        <!-- end s-footer -->
-
-
-        <!-- preloader
-    ================================================== -->
-        <div id="preloader">
-            <div id="loader">
-                <div class="line-scale">
-                    <div></div>
-                    <div></div>
-                    <div></div>
-                    <div></div>
-                    <div></div>
-                </div>
-            </div>
-        </div>
-
 
         <!-- Java Script
     ================================================== -->
-        <script src="js/jquery-3.2.1.min.js"></script>
-        <script src="js/plugins.js"></script>
-        <script src="js/main.js"></script>
-
+        <script src="js/pics_play.js"></script>
     </body>
 
 </html>
