@@ -1942,7 +1942,7 @@ input::-moz-focus-inner {
 }
 
 #pics_num li.active {
-    background: #ECBC0E;
+    background: #b4b3ad;
     /*当前显示的这一项它的颜色会不同于其他项*/
 }
 
