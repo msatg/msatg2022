@@ -83,6 +83,7 @@ html {
 html,
 body {
     height: 100%;
+    width: 100%;
 }
 
 body {
@@ -3448,43 +3449,32 @@ html.no-csstransitions .featured {
  *
  * ------------------------------------------------------------------- */
 
-footer {
-    padding-top: 10.2rem;
-    padding-bottom: 6rem;
-    font-size: 1.5rem;
-    line-height: 2;
-    color: rgba(255, 255, 255, 0.4);
-}
-
-footer a {
-    color: #FFFFFF;
-}
-
-footer h4 {
-    font-family: "metropolis-bold", sans-serif;
-    font-size: 1.4rem;
-    line-height: 1.286;
-    text-transform: uppercase;
-    letter-spacing: .25rem;
-    padding-bottom: 4.2rem;
-    color: #FFFFFF;
-    margin-top: 0;
+.footer_wrap img {
+    height: 80px;
+    width: auto;
     position: relative;
+    top: 20px;
 }
 
-footer h4::after {
-    content: "";
-    display: block;
-    height: 1px;
-    width: 120px;
-    background-color: rgba(255, 255, 255, 0.1);
-    position: absolute;
-    left: 0;
-    bottom: 0;
+#footer_content * {
+    display: inline-block;
 }
 
-.s-footer__main {
-    margin-bottom: 3.6rem;
+#footer_content {
+    text-align: center;
+}
+
+#footer_content p {
+    font-size: 2.1rem;
+    line-height: 1.0;
+    margin-top: 0;
+    margin-bottom: 3rem;
+    color: #FFFFFF;
+    border-bottom: 1px solid transparent;
+    -webkit-transition: all 0.5s ease-in-out;
+    transition: all 0.5s ease-in-out;
+    position: relative;
+    top: -10px;
 }
 
 
@@ -4406,4 +4396,4 @@ footer h4::after {
 }
 
 
-/*# sourceMappingURL=main.css.map */
+/*# sourceMappingURL=main.css.map *
