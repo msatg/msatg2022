@@ -1997,7 +1997,7 @@ input::-moz-focus-inner {
     font-size: 3.5rem;
     line-height: 1.333;
     margin-top: 0;
-    margin-bottom: 3rem;
+    margin-bottom: 1rem;
     color: #FFFFFF;
     border-bottom: 1px solid transparent;
     -webkit-transition: all 0.5s ease-in-out;
@@ -3456,7 +3456,7 @@ html.no-csstransitions .featured {
     top: 20px;
 }
 
-#footer_content * {
+#footer_content>* {
     display: inline-block;
 }
 
@@ -3464,17 +3464,22 @@ html.no-csstransitions .featured {
     text-align: center;
 }
 
-#footer_content p {
-    font-size: 2.1rem;
+#footer_content ul {
+    list-style-type: none;
+}
+
+#footer_content li {
+    font-size: 1.1rem;
     line-height: 1.0;
     margin-top: 0;
-    margin-bottom: 3rem;
+    margin-bottom: 1rem;
     color: #FFFFFF;
     border-bottom: 1px solid transparent;
     -webkit-transition: all 0.5s ease-in-out;
     transition: all 0.5s ease-in-out;
     position: relative;
     top: -10px;
+    text-align: left;
 }
 
 
